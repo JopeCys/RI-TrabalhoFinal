@@ -50,7 +50,7 @@ conda config --set channel_priority strict
 - APENAS em plataforma **Intel**
 
 ```shell
-conda create -n projeto_final_ri intelpython3_full python=3
+conda create -n projeto_final_ri intelpython3_full python=3.12
 ```
 
 - Outras plataformas:
@@ -71,6 +71,7 @@ python -m pip install -U --upgrade-strategy only-if-needed pip
 conda update --all -y
 
 conda install gensim --no-update-deps -y
+conda install nltk --no-update-deps -y
 conda install numpy --no-update-deps -y
 conda install pandas --no-update-deps -y
 conda install matplotlib --no-update-deps -y
