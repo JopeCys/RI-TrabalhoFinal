@@ -50,7 +50,7 @@ conda config --set channel_priority strict
 - APENAS em plataforma **Intel**
 
 ```shell
-conda create -n projeto_final_ri intelpython3_full python=3
+conda create -n projeto_final_ri intelpython3_full python=3.12
 ```
 
 - Outras plataformas:
