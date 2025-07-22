@@ -71,6 +71,7 @@ python -m pip install -U --upgrade-strategy only-if-needed pip
 conda update --all -y
 
 conda install gensim --no-update-deps -y
+conda install nltk --no-update-deps -y
 conda install numpy --no-update-deps -y
 conda install pandas --no-update-deps -y
 conda install matplotlib --no-update-deps -y
