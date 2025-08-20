@@ -1,7 +1,7 @@
 # Trabalho Final
 
 ## Descrição
-Este trabalho final consiste em avaliar métricas(Precision, Recall e F1) dos modelos de recuperação de informação Solr, vetorial e BM25 a fim de compará-los perfomaticamente. Para isso, foi utilizado o dataset "Highwire (TREC Genomics 2006)".
+Este trabalho final da disciplina Recuperação da Informação consiste em avaliar métricas(Precision, Recall e F1) dos modelos de recuperação de informação Solr, vetorial e BM25 a fim de compará-los perfomaticamente. Para isso, foi utilizado o dataset "Highwire (TREC Genomics 2006)".
 
 ---
 
